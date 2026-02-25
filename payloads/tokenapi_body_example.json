@@ -1,0 +1,22 @@
+{
+  "businessUnit": "BankingAndPayments",
+  "location": "US",
+  "environment": "Development",
+  "infrastructureType": "OCP4",
+  "accessDetails": [
+    "InstallerDownload",
+    "settings.read",
+    "settings.write",
+    "activeGateTokenManagement.create",
+    "entities.read",
+    "DataExport"
+  ],
+  "startDate": "2026-02-03T19:30:00.000Z",
+  "endDate": "2027-02-02T00:00:00.000Z",
+  "applicationName": "HarnessAutomation",
+  "accessCategory": "dev",
+  "comment": "APIToken",
+  "ownerID": "HarnessAutomation",
+  "autoRenew": "true",
+  "test": ""
+}
